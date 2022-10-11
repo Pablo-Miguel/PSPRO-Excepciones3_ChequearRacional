@@ -5,6 +5,8 @@
 
 package vahiculos.pspro.excepciones3_chequearracional;
 
+import vahiculos.pspro.excepciones3_chequearracional.vista.VentanaPrincipal;
+
 /**
  *
  * @author Dam
@@ -12,6 +14,6 @@ package vahiculos.pspro.excepciones3_chequearracional;
 public class PSPROExcepciones3_ChequearRacional {
 
     public static void main(String[] args) {
-        
+        VentanaPrincipal.main(args);
     }
 }
