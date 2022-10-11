@@ -12,6 +12,6 @@ package vahiculos.pspro.excepciones3_chequearracional;
 public class PSPROExcepciones3_ChequearRacional {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
